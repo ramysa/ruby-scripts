@@ -14,7 +14,7 @@ Problem 1:
       ###########
      #############
     ###############
-          ||
+           ||
 
 Problem 2:
 1. To run the script in the terminal: ruby palindrome.rb
