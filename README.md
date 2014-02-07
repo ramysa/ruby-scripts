@@ -1,7 +1,7 @@
 ruby-scripts
 ============
 
-Problem 1:  
+christmas.rb:  
 1. To run the script in the terminal: ruby christmas.rb "ARGUMENT"  
 2. The "ARGUMENT" is the number of branches of the christmas tree.  
 3. For example: ruby christmas.rb 8  
@@ -16,8 +16,8 @@ Problem 1:
     ###############
            ||
 
-Problem 2:
-1. To run the script in the terminal: ruby palindrome.rb
+palindrome.rb:  
+1. To run the script in the terminal: ruby palindrome.rb  
 2. For example: ruby palindrome.rb
 
 1  
